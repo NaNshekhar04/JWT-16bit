@@ -1,6 +1,6 @@
 {
   "name": "jwt-16bit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates JWT Secret Strings for our Application",
   "main": "index.js",
   "scripts": {
